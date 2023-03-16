@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kubap\\Desktop\\.NET\\projekt 1\\projekt 1.csproj",
+      "projectUniqueName": "C:\\Users\\kubap\\Source\\Repos\\PB\\projekt 1\\projekt 1.csproj",
       "projectName": "projekt 1",
-      "projectPath": "C:\\Users\\kubap\\Desktop\\.NET\\projekt 1\\projekt 1.csproj",
+      "projectPath": "C:\\Users\\kubap\\Source\\Repos\\PB\\projekt 1\\projekt 1.csproj",
       "packagesPath": "C:\\Users\\kubap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kubap\\Desktop\\.NET\\projekt 1\\obj\\",
+      "outputPath": "C:\\Users\\kubap\\Source\\Repos\\PB\\projekt 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kubap\\AppData\\Roaming\\NuGet\\NuGet.Config",
