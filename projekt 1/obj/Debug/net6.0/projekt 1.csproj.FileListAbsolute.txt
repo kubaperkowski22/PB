@@ -1,0 +1,31 @@
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\appsettings.json
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\projekt 1.staticwebassets.runtime.json
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\projekt 1.exe
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\projekt 1.deps.json
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\projekt 1.runtimeconfig.json
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\projekt 1.dll
+C:\Users\kubap\Desktop\.NET\projekt 1\bin\Debug\net6.0\projekt 1.pdb
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.csproj.AssemblyReference.cache
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.AssemblyInfoInputs.cache
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.AssemblyInfo.cs
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.csproj.CoreCompileInputs.cache
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.RazorAssemblyInfo.cache
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.RazorAssemblyInfo.cs
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\staticwebassets\msbuild.projekt 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\staticwebassets\msbuild.build.projekt 1.props
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.projekt 1.props
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.projekt 1.props
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\scopedcss\bundle\projekt 1.styles.css
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\scopedcss\projectbundle\projekt 1.bundle.scp.css
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.dll
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\refint\projekt 1.dll
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.pdb
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\projekt 1.genruntimeconfig.cache
+C:\Users\kubap\Desktop\.NET\projekt 1\obj\Debug\net6.0\ref\projekt 1.dll
