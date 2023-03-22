@@ -7,6 +7,9 @@ namespace projekt_1.Pages
     {
         private readonly ILogger<IndexModel> _logger;
 
+        [BindProperty(SupportsGet = true)]
+        public string Name { get; set; }
+
         public IndexModel(ILogger<IndexModel> logger)
         {
             _logger = logger;
@@ -14,7 +17,7 @@ namespace projekt_1.Pages
 
         public void OnGet()
         {
-
+            Name = "Kubus";
         }
     }
 }
