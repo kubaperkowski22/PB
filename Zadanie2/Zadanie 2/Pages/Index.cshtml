@@ -1,0 +1,21 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Fizz Buzz";
+}
+<div class="text-center">
+    <h1 class="display-4">Welcome @Model.Name</h1>
+    <form method="post">
+        <label asp-for="Zadanie2Form.Number"></label>
+        <input asp-for="Zadanie2Form.Number" /><br />
+        <button type="submit">Zatwierdź</button>
+    </form>
+    @{
+        if(ModelState.IsValid && Model.Zadanie2Form != null)
+        {
+            <div class="alert alert-success" role="alert">@Html.DisplayFor(x=>x.Message);</div>
+           
+        }
+    }
+    <span asp-validation-for="Zadanie2Form.Number" class="text-danger"></span>
+</div>
