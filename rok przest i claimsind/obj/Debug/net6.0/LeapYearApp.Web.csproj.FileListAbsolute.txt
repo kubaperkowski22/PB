@@ -1,0 +1,8 @@
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.csproj.AssemblyReference.cache
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.AssemblyInfoInputs.cache
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.AssemblyInfo.cs
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.RazorAssemblyInfo.cache
+C:\Users\kubap\Desktop\LeapYearApp-main\src\LeapYearApp.Web\obj\Debug\net6.0\LeapYearApp.Web.RazorAssemblyInfo.cs
